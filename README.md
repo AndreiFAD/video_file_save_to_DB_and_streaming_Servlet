@@ -2,6 +2,10 @@
 
 Video file save with Python to Postgresql and streaming with Java Servlet
 
+
+video: http://www.idokep.hu/radar/radar.mp4?e41a3
+
+
 http://fadcafe.hu/blogpost?id=255090
 
 The result is: 
