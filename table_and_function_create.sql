@@ -36,3 +36,4 @@ curs.execute("commit;")
 curs.close()
 return returned_id
 $function$
+;
